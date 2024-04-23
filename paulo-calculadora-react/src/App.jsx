@@ -46,7 +46,7 @@ function App() {
    <input type="text" placeholder="Numero2" value={numeroDos} onChange={handleChangeDos}/>
     
     <hr /> {/*pone una linea que divide el salto de linea */}
-    <br />  {/*pone un salto de linea normal */}
+    {/* <br />  pone un salto de linea normal */}
    
    <button onClick={handleSumar}>SUMAR</button>
    <button onClick={handleRestar}>RESTAR</button>

@@ -1,0 +1,61 @@
+div {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 50px;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: black;
+    margin-block-end: 50px;
+}
+
+.Boton {
+    border: 10;
+    background-color: #446c45;
+    margin-top: 40px;
+    color: black;
+    padding: 10px 50px;
+    text-align: center;
+    font-size: 35px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.Boton:hover {
+    background-color: #ff0000;
+    /* Color de fondo al pasar el cursor por encima */
+}
+.container2{
+    text-align: center;
+    font-size: 40px;
+    background-color: bisque;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.newWord{
+    background-color: #ff0000;
+    font-size: 20px;
+    padding: 5px 20px;
+    border-radius: 10px;
+
+}
+.newWord:hover {
+    background-color: #45a049;
+    /* Color de fondo al pasar el cursor por encima */
+}
+
+.pista{
+    font-size: 30px;
+    color: red;
+}
+
+.WIN{
+    color: #45a049;
+}
